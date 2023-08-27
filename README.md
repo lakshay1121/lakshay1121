@@ -7,11 +7,11 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshay1121&label=Profile%20views&color=0e75b6&style=flat" alt="lakshay1121" /> </p> -->
 <!-- [![Lakshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakshay1121)](https://github.com/lakshay1121/github-readme-stats) -->
 
-- 🔭 I’m currently working on Streamlit for developing Data Science Web Apps. **Staff Feedback Visualizer.**
+- 🔭 I’m currently working on React Native for developing both Android & Hybrid applications . 
 
-- 🌱 I’m currently learning **React and Data analysis.**
+- 🌱 I’m currently exploring more about **React Native**.
 
-- 💬 Ask me about **Javascript.**
+- 💬 Ask me about **Javascript , React Native , Expo , Android**
 
 - 📫 How to reach me **bhardwajlakshay545@gmail.com**
 
